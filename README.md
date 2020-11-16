@@ -1,5 +1,5 @@
-# AWSume
-An Oh-My-Zsh Plugin to enable autocompletion and displaying the currently selected profile.
+# AWSume Zsh Plugin
+An Oh-My-Zsh Plugin to enable autocompletion and displaying the currently selected [awsume](https://github.com/trek10inc/awsume) profile.
 
 ## Installation
 ```sh
