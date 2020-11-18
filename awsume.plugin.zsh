@@ -1,6 +1,6 @@
 
 function awsume_prompt_info() {
-  if [["$AWSUME_PROFILE" != ""]]; then
+  if [[ "$AWSUME_PROFILE" != "" ]]; then
     echo "${ZSH_THEME_AWSUME_PROMPT_PREFIX}${AWSUME_PROFILE}${ZSH_THEME_AWSUME_PROMPT_SUFFIX}"
   fi
 }
