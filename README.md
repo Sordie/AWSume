@@ -3,7 +3,7 @@ An Oh-My-Zsh Plugin to enable autocompletion and displaying the currently select
 
 ## Installation
 ```sh
-git clone git@github.com:Sordie/AWSume.git $ZSH_CUSTOM/plugins/awsume/
+git clone https://github.com/Sordie/AWSume.git $ZSH_CUSTOM/plugins/awsume/
 ```
 
 Afterwards enable the plugin in your .zshrc file.
